@@ -11,7 +11,7 @@ RunAsDaemon 1
 ORPort $IPV4ADDR:443
 ORPort [$IPV6ADDR]:443
 Nickname ${HOSTNAME}janxbde
-ContactInfo tor-janbrodda-de
+ContactInfo tor-janxb-de
 Log notice file /var/log/tor/notices.log
 DirPort 80
 IPv6Exit 1
